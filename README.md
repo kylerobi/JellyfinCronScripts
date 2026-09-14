@@ -1,5 +1,6 @@
 # JellyfinCronScripts
 Some scripts that can be run to make changes in Jellyfin without the need for plugins
+I made these so updating Jellyfin wouldn't be a hassle with custom files in the web folder.
 Make sure you run a "chmod +x {file}" on the file to make the script executable once you download.
 
 You can run the script a couple ways.
