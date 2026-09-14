@@ -1,6 +1,6 @@
 # JellyfinCronScripts
 Some scripts that can be run to make changes in Jellyfin without the need for plugins
-Make sure you run a "chmod +x" on the file to make the script executable once you download.
+Make sure you run a "chmod +x {file}" on the file to make the script executable once you download.
 
 You can run the script a couple ways.
 If you run through docker, 2 ways I would is:
